@@ -1,0 +1,2 @@
+a='gauri is  not girl'
+print(a.capitalize())
